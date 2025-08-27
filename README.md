@@ -4,7 +4,8 @@
 
 ## 📧 Contact
 
-📩 Email: sns_sns123@naver.com | sns_sns123@korea.ac.kr  
+📩 Email: sns_sns123@naver.com
+ 
 📍 GitHub: [profile](https://github.com/HyeyoonKim0711)
 
 ---
@@ -15,7 +16,7 @@
   전공: 통계학과 | 복수전공: 회계학과 (2018.03 ~ 2023.08)
 
 - **고려대학교**  
-  통계학과 석사과정 (2023.09 ~ 2025.08, 졸업 예정)
+  통계학과 석사과정 (2023.09 ~ 2025.08)
 
 ---
 
@@ -31,6 +32,7 @@
 | [🩺 RAG를 활용한 의료 챗봇 서비스](https://github.com/HyeyoonKim0711/the_empathetic_expert) | RAG와 Langchain을 활용한 의료 정보 챗봇 개발 |
 | [🛍️ 전통시장 활성화 - 청년몰 입지 예측 및 운영 전략](https://github.com/HyeyoonKim0711/2024-Bigcontest) | OD 데이터 분석을 기반으로 한 청년몰 입지 분석 |
 | [📄 임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류](https://github.com/HyeyoonKim0711/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification) | 한국어 텍스트 분류를 위한 RAG 방법론 비교 |
+|[🪙 RAG 기반 금융상품 및 지원사업 추천 챗봇](https://github.com/HyeyoonKim0711/2025-KB-AI-Challenge)|소상공인과 중소기업을 위한 맞춤형 꿀벌 비서 챗봇|
 
 ---
 
